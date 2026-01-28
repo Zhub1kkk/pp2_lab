@@ -1,3 +1,3 @@
-n=int(input())
-b=int(input())
-print(n%b)
+thislist = ["apple", "banana", "cherry"]
+if "apple" in thislist:
+  print("Yes, 'apple' is in the fruits list")

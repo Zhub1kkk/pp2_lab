@@ -1,2 +1,9 @@
-s = input()
-print (s[0],s[-1])
+x = "awesome"
+
+def myfunc():
+  x = "fantastic"
+  print("Python is " + x)
+
+myfunc()
+
+print("Python is " + x)

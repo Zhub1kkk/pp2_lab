@@ -1,3 +1,2 @@
-s = input()
-n = input()
-print (n in s )
+print(bool("Hello"))
+print(bool(15))

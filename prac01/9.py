@@ -1,2 +1,2 @@
-s = input()
-print(len(s))
+x = "Python is awesome"
+print(x)

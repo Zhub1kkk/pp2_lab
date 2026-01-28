@@ -1,3 +1,4 @@
-a = input()
-b = input()
-print (a+"***"+b)
+x = 5
+y = "John"
+print(x)
+print(y)

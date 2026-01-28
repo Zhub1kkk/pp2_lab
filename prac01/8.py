@@ -1,3 +1,4 @@
-s  =input()
-n =int(input())
-print(s*n)
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)

@@ -1,4 +1,3 @@
-s = input()
-n = input()
-b = input()
-print(s.replace(n, b))
+x = 5
+
+print(x < 5 or x > 10)

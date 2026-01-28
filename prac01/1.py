@@ -1,2 +1,1 @@
-n = input()
-print ("Hello, "+ n + "!")
+print("Hello, World!")

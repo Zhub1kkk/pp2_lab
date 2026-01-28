@@ -1,2 +1,7 @@
-s = input()
-print (s[2:5])
+def myfunc():
+  global x
+  x = "fantastic"
+
+myfunc()
+
+print("Python is " + x)

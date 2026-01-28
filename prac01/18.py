@@ -1,5 +1,10 @@
-n = int(input())
-if n % 2 == 0:
-    print("even")
-else:
-    print("odd")
+x = 15
+y = 4
+
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)
+print(x % y)
+print(x ** y)
+print(x // y)

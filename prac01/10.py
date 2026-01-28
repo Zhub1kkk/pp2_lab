@@ -1,3 +1,6 @@
-s = input()
-print(s.upper())
-print(s.lower())
+x = "awesome"
+
+def myfunc():
+  print("Python is " + x)
+
+myfunc()
